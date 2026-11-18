@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tri\\source\\repos\\SE_Labs\\Lab9\\LoginAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D30A5CE4-DAF4-F136-D4FA-F5857FA5E6AB}|LoginAutomation.csproj|c:\\users\\tri\\source\\repos\\se_labs\\lab9\\loginautomation\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30A5CE4-DAF4-F136-D4FA-F5857FA5E6AB}|LoginAutomation.csproj|solutionrelative:logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30A5CE4-DAF4-F136-D4FA-F5857FA5E6AB}|LoginAutomation.csproj|c:\\users\\tri\\source\\repos\\se_labs\\lab9\\loginautomation\\allureconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D30A5CE4-DAF4-F136-D4FA-F5857FA5E6AB}|LoginAutomation.csproj|solutionrelative:allureconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30A5CE4-DAF4-F136-D4FA-F5857FA5E6AB}|LoginAutomation.csproj|c:\\users\\tri\\source\\repos\\se_labs\\lab9\\loginautomation\\loginautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D30A5CE4-DAF4-F136-D4FA-F5857FA5E6AB}|LoginAutomation.csproj|solutionrelative:loginautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30A5CE4-DAF4-F136-D4FA-F5857FA5E6AB}|LoginAutomation.csproj|c:\\users\\tri\\source\\repos\\se_labs\\lab9\\loginautomation\\logintestdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D30A5CE4-DAF4-F136-D4FA-F5857FA5E6AB}|LoginAutomation.csproj|solutionrelative:logintestdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30A5CE4-DAF4-F136-D4FA-F5857FA5E6AB}|LoginAutomation.csproj|c:\\users\\tri\\source\\repos\\se_labs\\lab9\\loginautomation\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D30A5CE4-DAF4-F136-D4FA-F5857FA5E6AB}|LoginAutomation.csproj|solutionrelative:login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "allureConfig.json",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SE_Labs\\Lab9\\LoginAutomation\\allureConfig.json",
+              "RelativeDocumentMoniker": "allureConfig.json",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SE_Labs\\Lab9\\LoginAutomation\\allureConfig.json",
+              "RelativeToolTip": "allureConfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-04T09:06:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginAutomation.csproj",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SE_Labs\\Lab9\\LoginAutomation\\LoginAutomation.csproj",
+              "RelativeDocumentMoniker": "LoginAutomation.csproj",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SE_Labs\\Lab9\\LoginAutomation\\LoginAutomation.csproj",
+              "RelativeToolTip": "LoginAutomation.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T08:57:47.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SE_Labs\\Lab9\\LoginAutomation\\LoginTests.cs",
+              "RelativeDocumentMoniker": "LoginTests.cs",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SE_Labs\\Lab9\\LoginAutomation\\LoginTests.cs",
+              "RelativeToolTip": "LoginTests.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:53:00.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginTestData.csv",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SE_Labs\\Lab9\\LoginAutomation\\LoginTestData.csv",
+              "RelativeDocumentMoniker": "LoginTestData.csv",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SE_Labs\\Lab9\\LoginAutomation\\LoginTestData.csv",
+              "RelativeToolTip": "LoginTestData.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-11-04T08:52:24.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\Tri\\source\\repos\\SE_Labs\\Lab9\\LoginAutomation\\login.html",
+              "RelativeDocumentMoniker": "login.html",
+              "ToolTip": "C:\\Users\\Tri\\source\\repos\\SE_Labs\\Lab9\\LoginAutomation\\login.html",
+              "RelativeToolTip": "login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-04T08:52:00.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
